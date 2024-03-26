@@ -2,7 +2,8 @@ import React from 'react';
 
 const ModalProvider = () => {
 
-const test = () => console.log('test');
+
+  const test = () => console.log('test');
 
 
   return <div>ModalProvider</div>;
