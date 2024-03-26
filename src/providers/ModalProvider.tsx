@@ -1,10 +1,10 @@
-import React from 'react'
+import React from 'react';
 
 const ModalProvider = () => {
-const test = () => console.log("test");
-  return (
-    <div>ModalProvider</div>
-  )
-}
+const test = () => console.log('test');
 
-export default ModalProvider
+test()
+  return <div>ModalProvider</div>;
+};
+
+export default ModalProvider;
