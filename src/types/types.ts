@@ -20,4 +20,7 @@ export interface ModalProps {
   children: ReactNode;
   className?: string;
   styles?: object;
+  centerVertically?: boolean;
+  showModal?: boolean;
+  onClose?: () => void;
 }

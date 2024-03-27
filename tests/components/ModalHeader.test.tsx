@@ -1,5 +1,5 @@
 import { render, screen } from '@testing-library/react';
-import { ModalHeader } from '../../src/components';
+import { ModalHeader } from '../../src';
 
 describe('ModalHeader', () => {
   it('should be rendered correctly', () => {
