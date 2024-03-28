@@ -37,7 +37,7 @@ const App = () => {
       </Modal>
     </>)
 }
-
+```
 
 ## Breakdown
 As shown in the component above, the modal contents are wrapped in a the "Modal" component. 
